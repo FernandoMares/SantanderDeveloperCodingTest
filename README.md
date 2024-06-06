@@ -13,7 +13,8 @@ Prerequisites
 
 #### Running the Application
 Clone the repository:
- - git clone https://github.com/yourusername/FGMHackerNewsAPI.git
+
+ - gh repo clone FernandoMares/SantanderDeveloperCodingTest (Master Branch)
  - cd FGMHackerNewsAPI
 
 Build and run the application:
